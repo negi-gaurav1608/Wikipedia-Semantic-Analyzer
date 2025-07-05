@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+textblob
+nltk
+wordcloud
+matplotlib
+beautifulsoup4
